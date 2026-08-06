@@ -6,7 +6,7 @@
 
 ### ⚡ About Me
 
-Information Technology student specialized in developing production-ready **MERN stack web applications**, **Flutter mobile apps**, and **Machine Learning pipelines**. Focused on scalable backend systems, robust RESTful APIs, and practical AI workflow automations.
+Information Technology student specialized in developing production-ready **MERN stack web applications** and **Machine Learning pipelines**. Focused on scalable backend systems, robust RESTful APIs, and practical AI workflow automations.
 
 ---
 
