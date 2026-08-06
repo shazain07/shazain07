@@ -1,80 +1,65 @@
-# Hi there, I'm Shahzain Sherazi 👋
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%93%B1" alt="Typing SVG" />
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://linkedin.com/in/shazain-sherazi-90243437a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:shazainsherazi7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
-
-
-### ⚡ Quick Overview
-
-Final-year Software Engineering student specialized in building production-ready **MERN stack applications**, **Flutter mobile apps**, and **Machine Learning models**. Focused on scalable backend architecture, clean RESTful APIs, and intelligent system workflows.
-
----
-
-### 🛠️ Core Capabilities
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Web & Mobile Development</h4>
-      <ul>
-        <li><b>Backend:</b> Node.js, Express.js, JWT, REST APIs</li>
-        <li><b>Frontend:</b> React.js, HTML5, CSS3, Modern UI</li>
-        <li><b>Database:</b> MongoDB, Mongoose, PostgreSQL</li>
-        <li><b>Mobile:</b> Flutter, Cross-Platform Apps</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 Machine Learning & AI</h4>
-      <ul>
-        <li><b>Python Ecosystem:</b> Scikit-Learn, Pandas, NumPy</li>
-        <li><b>Modeling:</b> Classification, Regression, Tuning</li>
-        <li><b>Workflows:</b> AI Automation, LLM Integrations</li>
-        <li><b>Tools:</b> Google Colab, Jupyter, Git Pipelines</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Highlighted Projects
-
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>🔑 MERN Auth API</h3>
-      <p>Secure JWT Authentication backend with encrypted passwords and protected routes.</p>
-      <a href="https://github.com/shazain07/mern-day6"><b>View Repository »</b></a>
-    </td>
-    <td width="33%" align="center">
-      <h3>📊 Churn Prediction</h3>
-      <p>End-to-end ML model evaluating customer retention and predicting turnover metrics.</p>
-      <a href="https://github.com/shazain07/telco-customer-churn-prediction-ml"><b>View Repository »</b></a>
-    </td>
-    <td width="33%" align="center">
-      <h3>🚢 Titanic ML Pipeline</h3>
-      <p>Supervised learning classification pipeline featuring hyperparameter optimization.</p>
-      <a href="https://github.com/shazain07/ml-titanic-survival-classification"><b>View Repository »</b></a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📈 Activity Overview
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shazain07&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Shahzain%20Sherazi&fontSize=42&fontColor=61DAFB&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20MERN%20%26%20Machine%20Learning%20Developer&descAlignY=62&descSize=18" width="100%" alt="Header Banner" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Shahzain Sherazi</h1>
+<h3 align="center">A passionate Software Engineer & Full-Stack Developer from Pakistan 🇵🇰</h3>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on **MERN Stack APIs & Machine Learning Models**
+- 🌱 I’m currently expanding my skills in **AI Automations & Flutter Apps**
+- 💬 Ask me about **React, Node.js, Express, MongoDB, Python, ML**
+- 📫 How to reach me: **shazainsherazi7@gmail.com**
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/shazain-sherazi-90243437a" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" height="35" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats & Streak
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazain07&theme=dark&background=0d1117&border=161b22&stroke=61DAFB&ring=61DAFB&fire=61DAFB" alt="shazain07 streak" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shazain07&show_icons=true&theme=dark&bg_color=0d1117&border_color=161b22&title_color=61DAFB&text_color=ffffff" alt="shazain07 stats" width="49%" />
 </p>
