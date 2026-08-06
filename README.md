@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Hi+there%2C+I'm+Shahzain+Sherazi!+👋;Full-Stack+MERN+Developer+🚀;Machine+Learning+%26+AI+Enthusiast+🤖;Building+Scalable+Web+%26+Mobile+Apps+📱" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Hi+there%2C+I'm+Shahzain+Sherazi!+%F0%9F%90%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%93%B1" alt="Typing SVG" />
 </div>
 
 <br />
@@ -72,10 +72,8 @@ Final-year Software Engineering student specialized in building production-ready
 
 ---
 
-### 🐍 Contribution Activity Graph
+### 📈 Activity Overview
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shazain07/shazain07/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shazain07/shazain07/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake" src="https://raw.githubusercontent.com/shazain07/shazain07/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shazain07&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</p>
