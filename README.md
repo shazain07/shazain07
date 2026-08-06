@@ -24,11 +24,12 @@ Software Engineer & Full-Stack Developer specializing in MERN stack development,
 - **Titanic Survival Classifier**: Predictive modeling pipeline featuring data preprocessing and hyperparameter tuning.
 
 ---
-
 ### 📊 GitHub Stats
 
-![Shahzain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shazain07&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shazain07&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=shazain07&show_icons=true&theme=tokyonight&hide_border=true" alt="Shahzain's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazain07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
