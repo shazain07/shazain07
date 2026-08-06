@@ -1,5 +1,7 @@
+# Hi there, I'm Shahzain Sherazi 👋
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Hi+there%2C+I'm+Shahzain+Sherazi!+%F0%9F%90%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%93%B1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vcenter=true&width=600&lines=Full-Stack+MERN+Developer+%F0%9F%9A%80;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%93%B1" alt="Typing SVG" />
 </div>
 
 <br />
@@ -13,7 +15,6 @@
   </a>
 </div>
 
----
 
 ### ⚡ Quick Overview
 
