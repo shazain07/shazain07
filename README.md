@@ -1,4 +1,4 @@
-<div align="center">
+<<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=700&lines=Hi+there%2C+I'm+Shahzain+Sherazi!+%F0%9F%90%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%93%B1" alt="Typing SVG" />
 </div>
 
@@ -6,64 +6,34 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/shazain-sherazi-90243437a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:shazainsherazi7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <br />
 
->[!NOTE]
-> **Quick Overview**: Final-year Software Engineering student specialized in building production-ready **MERN stack applications**, **Flutter mobile apps**, and **Machine Learning models**. Focused on scalable backend architecture, clean RESTful APIs, and intelligent system workflows.
+### ⚡ About Me
+
+Software Engineering student specialized in developing production-ready **MERN stack web applications**, **Flutter mobile apps**, and **Machine Learning pipelines**. Focused on scalable backend systems, robust RESTful APIs, and practical AI workflow automations.
 
 ---
 
-### 🛠️ Core Capabilities & Tech Stack
+### 🛠️ Languages & Technologies
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Web & Mobile Development</h4>
-      <p align="left">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> &nbsp;
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> &nbsp;
-        <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-      </p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> &nbsp;
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> &nbsp;
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-      </p>
-      <ul>
-        <li><b>Backend:</b> Node.js, Express.js, JWT, REST APIs</li>
-        <li><b>Frontend:</b> React.js, HTML5, CSS3, Modern UI</li>
-        <li><b>Database:</b> MongoDB, Mongoose, PostgreSQL</li>
-        <li><b>Mobile:</b> Flutter, Cross-Platform Apps</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 Machine Learning & AI</h4>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> &nbsp;
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-      </p>
-      <p align="left">
-        <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /> &nbsp;
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> &nbsp;
-        <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-      </p>
-      <ul>
-        <li><b>Python Ecosystem:</b> Scikit-Learn, Pandas, NumPy</li>
-        <li><b>Modeling:</b> Classification, Regression, Tuning</li>
-        <li><b>Workflows:</b> AI Automation, LLM Integrations</li>
-        <li><b>Tools:</b> Google Colab, Jupyter, Git Pipelines</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+</p>
 
 ---
 
@@ -74,24 +44,24 @@
     <td width="33%" align="center" valign="top">
       <h3>🔑 MERN Auth API</h3>
       <p>Secure JWT Authentication backend with encrypted passwords and protected routes.</p>
-      <a href="https://github.com/shazain07/mern-day6"><code>View Repository »</code></a>
+      <a href="https://github.com/shazain07/mern-day6"><code>View Code »</code></a>
     </td>
     <td width="33%" align="center" valign="top">
       <h3>📊 Churn Prediction</h3>
       <p>End-to-end ML model evaluating customer retention and predicting turnover metrics.</p>
-      <a href="https://github.com/shazain07/telco-customer-churn-prediction-ml"><code>View Repository »</code></a>
+      <a href="https://github.com/shazain07/telco-customer-churn-prediction-ml"><code>View Code »</code></a>
     </td>
     <td width="33%" align="center" valign="top">
       <h3>🚢 Titanic ML Pipeline</h3>
       <p>Supervised learning classification pipeline featuring hyperparameter optimization.</p>
-      <a href="https://github.com/shazain07/ml-titanic-survival-classification"><code>View Repository »</code></a>
+      <a href="https://github.com/shazain07/ml-titanic-survival-classification"><code>View Code »</code></a>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Realtime Activity & Streak
+### 📈 Realtime Activity & Metrics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazain07&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
