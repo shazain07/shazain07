@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I'm Shahzain Sherazi 👋
 
-<!--
-**shazain07/shazain07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer & Full-Stack Developer specializing in MERN stack development, Machine Learning models, and AI workflow integration.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+**Languages & Frameworks:**
+`React.js` `Node.js` `Express.js` `Python` `JavaScript` `HTML5/CSS3`
+
+**Databases & Tools:**
+`MongoDB` `PostgreSQL` `Git/GitHub` `Postman` `Google Colab` `VS Code`
+
+**Machine Learning & AI:**
+`Scikit-Learn` `Pandas` `NumPy` `Logistic Regression` `Model Tuning`
+
+---
+
+### 📂 Highlighted Projects
+
+- **MERN JWT Auth API**: Secure REST API built with Node.js, Express, MongoDB, and JWT authentication.
+- **Telco Customer Churn Prediction**: ML classification model analyzing customer retention metrics.
+- **Titanic Survival Classifier**: Predictive modeling pipeline featuring data preprocessing and hyperparameter tuning.
+
+---
+
+### 📊 GitHub Stats
+
+![Shahzain's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shazain07&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shazain07&layout=compact&theme=tokyonight)
+
+---
+
+📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/shazain-sherazi-90243437a) | **Email:** shazainsherazi7@gmail.com
