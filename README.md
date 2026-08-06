@@ -6,42 +6,34 @@
 
 ### ⚡ About Me
 
-Information Technology student specialized in developing production-ready **MERN stack web applications** and **Machine Learning pipelines**. Focused on scalable backend systems, robust RESTful APIs, and practical AI workflow automations.
+Information Technology student specialized in developing production-ready **MERN Stack Web Applications**, **Full Stack Apps**, and **Machine Learning Pipelines**. Focused on scalable backend systems, robust RESTful APIs, and practical AI workflow automations.
 
 ---
 
 ### 🛠️ Tech Stack & Capabilities
 
-<br />
+#### 🌐 Web & Mobile Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+</p>
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 Web & Mobile Development</h4>
-      <p align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30" height="30" alt="React"/> &nbsp; <b>React.js</b> <br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="Node.js"/> &nbsp; <b>Node.js & Express</b> <br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="MongoDB"/> &nbsp; <b>MongoDB</b> <br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="30" height="30" alt="Flutter"/> &nbsp; <b>Flutter & Dart</b>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤖 AI & Machine Learning</h4>
-      <p align="left">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30" height="30" alt="Python"/> &nbsp; <b>Python Ecosystem</b> <br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="30" height="30" alt="Scikit-Learn"/> &nbsp; <b>Scikit-Learn & ML</b> <br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="30" height="30" alt="Pandas"/> &nbsp; <b>Pandas & NumPy</b> <br/><br/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="30" height="30" alt="Git"/> &nbsp; <b>Git & Version Control</b>
-      </p>
-    </td>
-  </tr>
-</table>
+#### 🤖 AI & Machine Learning
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-Learn" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/> &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+</p>
 
 ---
 
 ### 🚀 Highlighted Projects
-
-<br />
 
 * #### 🔑 **MERN JWT Authentication API**
   > Production-ready RESTful authentication server built with Node.js, Express, MongoDB, and JSON Web Tokens featuring encrypted passwords and protected route middleware.  
