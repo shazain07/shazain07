@@ -24,13 +24,16 @@ Software Engineer & Full-Stack Developer specializing in MERN stack development,
 - **Titanic Survival Classifier**: Predictive modeling pipeline featuring data preprocessing and hyperparameter tuning.
 
 ---
-### 📊 GitHub Stats
+### 🛠️ Core Technologies
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shazain07&show_icons=true&theme=tokyonight&hide_border=true" alt="Shahzain's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shazain07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
-
 ---
 
 📫 **Connect with me:** [LinkedIn](https://linkedin.com/in/shazain-sherazi-90243437a) | **Email:** shazainsherazi7@gmail.com
