@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=61DAFB&center=true&vcenter=true&width=700&lines=Hi+there%2C+I'm+Shahzain+Sherazi!+%F0%9F%90%8B;Full-Stack+MERN+Developer+%F0%9F%9A%80;Machine+Learning+%26+AI+Enthusiast+%F0%9F%A4%96;Building+Scalable+Web+%26+Mobile+Apps+%F0%9F%93%B1" alt="Typing SVG" />
 </div>
 
@@ -6,11 +6,11 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/shazain-sherazi-90243437a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:shazainsherazi7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
@@ -22,52 +22,51 @@ Software Engineering student specialized in developing production-ready **MERN s
 
 ---
 
-### 🛠️ Languages & Technologies
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="42" height="42"/> &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="42" height="42"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="45" height="45"/> &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
 </p>
 
 ---
 
-### 🚀 Highlighted Projects
+### 🚀 Featured Projects
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>🔑 MERN Auth API</h3>
-      <p>Secure JWT Authentication backend with encrypted passwords and protected routes.</p>
-      <a href="https://github.com/shazain07/mern-day6"><code>View Code »</code></a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>📊 Churn Prediction</h3>
-      <p>End-to-end ML model evaluating customer retention and predicting turnover metrics.</p>
-      <a href="https://github.com/shazain07/telco-customer-churn-prediction-ml"><code>View Code »</code></a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🚢 Titanic ML Pipeline</h3>
-      <p>Supervised learning classification pipeline featuring hyperparameter optimization.</p>
-      <a href="https://github.com/shazain07/ml-titanic-survival-classification"><code>View Code »</code></a>
-    </td>
-  </tr>
-</table>
+#### 🔑 **MERN JWT Authentication API**
+> Production-ready RESTful authentication server built with Node.js, Express, MongoDB, and JSON Web Tokens featuring encrypted passwords and protected route middleware.  
+`Node.js` • `Express.js` • `MongoDB` • `JWT` • `bcrypt`  
+👉 **[Explore Codebase »](https://github.com/shazain07/mern-day6)**
+
+<br />
+
+#### 📊 **Telco Customer Churn Predictor**
+> End-to-end Machine Learning classification model analyzing customer retention metrics, service usage patterns, and demographics to forecast turnover.  
+`Python` • `Scikit-Learn` • `Pandas` • `Seaborn`  
+👉 **[Explore Codebase »](https://github.com/shazain07/telco-customer-churn-prediction-ml)**
+
+<br />
+
+#### 🚢 **Titanic Survival Classifier**
+> Supervised learning pipeline built in Google Colab utilizing exploratory data analysis, missing value imputation, feature engineering, and hyperparameter tuning.  
+`Python` • `Data Science` • `Classification`  
+👉 **[Explore Codebase »](https://github.com/shazain07/ml-titanic-survival-classification)**
 
 ---
 
-### 📈 Realtime Activity & Metrics
+### 📈 Realtime Contributions & Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazain07&theme=tokyonight&hide_border=true" width="49%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=shazain07&show_icons=true&theme=tokyonight&hide_border=true&title_color=61DAFB" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shazain07&theme=tokyonight&hide_border=true&background=0d1117" width="49%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterrst-anuraghazra.vercel.app/api?username=shazain07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=61DAFB" width="49%" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shazain07&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shazain07&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117" width="100%" alt="Activity Graph" />
 </p>
